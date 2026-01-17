@@ -1,0 +1,6 @@
+C:\Users\hosov\source\repos\iceddll\iceddll\bin\x64\Debug\iceddll.dll
+C:\Users\hosov\source\repos\iceddll\iceddll\bin\x64\Debug\iceddll.pdb
+C:\Users\hosov\source\repos\iceddll\iceddll\obj\x64\Debug\iceddll.csproj.AssemblyReference.cache
+C:\Users\hosov\source\repos\iceddll\iceddll\obj\x64\Debug\iceddll.csproj.CoreCompileInputs.cache
+C:\Users\hosov\source\repos\iceddll\iceddll\obj\x64\Debug\iceddll.dll
+C:\Users\hosov\source\repos\iceddll\iceddll\obj\x64\Debug\iceddll.pdb

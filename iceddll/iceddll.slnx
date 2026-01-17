@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="iceddll/iceddll.csproj" Id="d08fcf69-2d81-4ab8-87c9-3763d314ad25">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
